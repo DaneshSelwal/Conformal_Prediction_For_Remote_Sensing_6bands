@@ -98,4 +98,5 @@ Instead of a single label map, we generate:
 * **Voronoi Analysis**: Visualizing decision boundaries in the feature space.
 * **Excel Reports**: Automated generation of `conformal_reports.xlsx` containing coverage plots and sample images.
 
+  <sup>**</sup>This repository is a collaborative project developed by Prakriti Bisht and Danesh Selwal.
 ---
